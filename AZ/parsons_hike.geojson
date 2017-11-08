@@ -71,6 +71,22 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "suitcase",
+        "name": "Parsons Trail Cache #1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -112.071050,
+          34.881200
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase",
         "name": "Waitin for a train"
       },
       "geometry": {
