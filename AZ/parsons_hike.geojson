@@ -4,6 +4,22 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "name": "Parsons Spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.064409,
+          34.903246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "suitcase",
