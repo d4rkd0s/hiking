@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [35.05388889, 112.13416667]
+  },
+  "properties": {
+    "name": "El Dorado"
+  }
+}
