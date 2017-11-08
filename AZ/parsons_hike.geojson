@@ -39,6 +39,22 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "suitcase",
+        "name": "Cactus Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.051033,
+          34.864517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase",
         "name": "Parsons Trailhead"
       },
       "geometry": {
