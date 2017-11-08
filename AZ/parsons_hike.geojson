@@ -28,8 +28,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.13416667,
-          35.05388889
+          -112.008050,
+          34.862233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase",
+        "name": "Parsons Trailhead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.071817,
+          34.862100
         ]
       }
     },
