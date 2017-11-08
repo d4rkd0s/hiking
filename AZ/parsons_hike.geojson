@@ -68,6 +68,22 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase",
+        "name": "Waitin for a train"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -112.067417,
+          34.862183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Parsons Trail"
       },
       "geometry": {
